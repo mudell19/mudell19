@@ -1,3 +1,5 @@
+<p align="center"><img src="cover.jpg" alt="" width="100%"></p>
+
 <h1 align="center">Murilo Dell</h1>
 <h3 align="center">Engenheiro de IA e Automação</h3>
 
