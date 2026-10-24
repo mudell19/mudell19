@@ -53,8 +53,4 @@ Agentes de IA · LLMs e Tool Calling · RAG e Embeddings · Model Context Protoc
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mudell19&locale=pt_BR&hide_border=true&theme=transparent" alt="Atividade no GitHub">
-</p>
-
-<p align="center"><sub>O código de produção é privado: lida com dados de pacientes e de clientes. O gráfico acima inclui essa atividade.</sub></p>
+<p align="center"><sub>O código de produção é privado: lida com dados de pacientes e de clientes. O gráfico de atividade abaixo inclui essa atividade.</sub></p>
